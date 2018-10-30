@@ -1,2 +1,3 @@
 # python_daydayup
 python coding tricks, hints...
+little by little, day day up!!!
